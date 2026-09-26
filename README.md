@@ -24,3 +24,9 @@ The site currently uses Google Fonts for Vazirmatn.
 - Below-fold images lazy-load; high-priority hero assets load eagerly.
 - Raster assets optimized to WebP for substantially faster page loads.
 - Persian hero labels, keyboard focus states, skip-to-content support, and image dimensions added.
+
+
+## Live site
+https://dr-noushin-payravi.github.io/
+
+SEO metadata and sitemap finalized for this live URL on 2026-09-26.
